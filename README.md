@@ -236,30 +236,6 @@ Ingrese números separados por espacio: 1 2 3 4 5 6 7 8 9 10
 --------------------------------------------------
 
 Seleccione una opción (1-6): 6
-1. Sumar
-2. Restar
-3. Multiplicar
-4. Dividir
-5. Suma avanzada (múltiples números)
-6. Salir
-
---------------------------------------------------
-
-Seleccione una opción (1-6): 6
-4. Dividir
-5. Suma avanzada (múltiples números)
-6. Salir
-
---------------------------------------------------
-
-Seleccione una opción (1-6): 6
-6. Salir
-
---------------------------------------------------
-
-Seleccione una opción (1-6): 6
-
-Seleccione una opción (1-6): 6
 
 ==============================
         ¡HASTA PRONTO!
